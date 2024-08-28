@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<html>
+        <head>
+              <title>My First Webpage </title>
+
+              <meta charset="UTF-8">
+              <meta name="author" content="Stella Marie C. Mateong">
+              <meta name="keywords" content="HTML, CSS< JavaScript">
+              <meta name="revised" content="21-08-2024">
+
+              <link rel="icon" href="ion.png" type="image/gif">
+        </head>
+        <body>
+               <strong> This text is also bold. </strong>
+			   <b> this text is bold </b>
+			   <em> This text is Italic. </em>
+			   <i> This text is also in italic </i>
+
+                
+        </body>
+</html> 
